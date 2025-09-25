@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-29">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="long" />
+      <attribute id="1" title="y" type="long" />
+    </attributes>
+    <nodes>
+      <node id="(581, 1570)" label="(581, 1570)">
+        <attvalues>
+          <attvalue for="0" value="581" />
+          <attvalue for="1" value="1570" />
+        </attvalues>
+      </node>
+      <node id="(681, 1686)" label="(681, 1686)">
+        <attvalues>
+          <attvalue for="0" value="681" />
+          <attvalue for="1" value="1686" />
+        </attvalues>
+      </node>
+      <node id="(123, 1314)" label="(123, 1314)">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="1314" />
+        </attvalues>
+      </node>
+      <node id="(489, 1285)" label="(489, 1285)">
+        <attvalues>
+          <attvalue for="0" value="489" />
+          <attvalue for="1" value="1285" />
+        </attvalues>
+      </node>
+      <node id="(454, 1001)" label="(454, 1001)">
+        <attvalues>
+          <attvalue for="0" value="454" />
+          <attvalue for="1" value="1001" />
+        </attvalues>
+      </node>
+      <node id="(514, 1018)" label="(514, 1018)">
+        <attvalues>
+          <attvalue for="0" value="514" />
+          <attvalue for="1" value="1018" />
+        </attvalues>
+      </node>
+      <node id="(410, 823)" label="(410, 823)">
+        <attvalues>
+          <attvalue for="0" value="410" />
+          <attvalue for="1" value="823" />
+        </attvalues>
+      </node>
+      <node id="(555, 888)" label="(555, 888)">
+        <attvalues>
+          <attvalue for="0" value="555" />
+          <attvalue for="1" value="888" />
+        </attvalues>
+      </node>
+      <node id="(279, 1143)" label="(279, 1143)">
+        <attvalues>
+          <attvalue for="0" value="279" />
+          <attvalue for="1" value="1143" />
+        </attvalues>
+      </node>
+      <node id="(5329, 798)" label="(5329, 798)">
+        <attvalues>
+          <attvalue for="0" value="5329" />
+          <attvalue for="1" value="798" />
+        </attvalues>
+      </node>
+      <node id="(5333, 861)" label="(5333, 861)">
+        <attvalues>
+          <attvalue for="0" value="5333" />
+          <attvalue for="1" value="861" />
+        </attvalues>
+      </node>
+      <node id="(1864, 1698)" label="(1864, 1698)">
+        <attvalues>
+          <attvalue for="0" value="1864" />
+          <attvalue for="1" value="1698" />
+        </attvalues>
+      </node>
+      <node id="(2167, 1929)" label="(2167, 1929)">
+        <attvalues>
+          <attvalue for="0" value="2167" />
+          <attvalue for="1" value="1929" />
+        </attvalues>
+      </node>
+      <node id="(6791, 2770)" label="(6791, 2770)">
+        <attvalues>
+          <attvalue for="0" value="6791" />
+          <attvalue for="1" value="2770" />
+        </attvalues>
+      </node>
+      <node id="(6921, 2550)" label="(6921, 2550)">
+        <attvalues>
+          <attvalue for="0" value="6921" />
+          <attvalue for="1" value="2550" />
+        </attvalues>
+      </node>
+      <node id="(2124, 549)" label="(2124, 549)">
+        <attvalues>
+          <attvalue for="0" value="2124" />
+          <attvalue for="1" value="549" />
+        </attvalues>
+      </node>
+      <node id="(2218, 607)" label="(2218, 607)">
+        <attvalues>
+          <attvalue for="0" value="2218" />
+          <attvalue for="1" value="607" />
+        </attvalues>
+      </node>
+      <node id="(1987, 588)" label="(1987, 588)">
+        <attvalues>
+          <attvalue for="0" value="1987" />
+          <attvalue for="1" value="588" />
+        </attvalues>
+      </node>
+      <node id="(1741, 429)" label="(1741, 429)">
+        <attvalues>
+          <attvalue for="0" value="1741" />
+          <attvalue for="1" value="429" />
+        </attvalues>
+      </node>
+      <node id="(2543, 948)" label="(2543, 948)">
+        <attvalues>
+          <attvalue for="0" value="2543" />
+          <attvalue for="1" value="948" />
+        </attvalues>
+      </node>
+      <node id="(2698, 921)" label="(2698, 921)">
+        <attvalues>
+          <attvalue for="0" value="2698" />
+          <attvalue for="1" value="921" />
+        </attvalues>
+      </node>
+      <node id="(3811, 1812)" label="(3811, 1812)">
+        <attvalues>
+          <attvalue for="0" value="3811" />
+          <attvalue for="1" value="1812" />
+        </attvalues>
+      </node>
+      <node id="(3796, 1739)" label="(3796, 1739)">
+        <attvalues>
+          <attvalue for="0" value="3796" />
+          <attvalue for="1" value="1739" />
+        </attvalues>
+      </node>
+      <node id="(2501, 743)" label="(2501, 743)">
+        <attvalues>
+          <attvalue for="0" value="2501" />
+          <attvalue for="1" value="743" />
+        </attvalues>
+      </node>
+      <node id="(2301, 907)" label="(2301, 907)">
+        <attvalues>
+          <attvalue for="0" value="2301" />
+          <attvalue for="1" value="907" />
+        </attvalues>
+      </node>
+      <node id="(2492, 732)" label="(2492, 732)">
+        <attvalues>
+          <attvalue for="0" value="2492" />
+          <attvalue for="1" value="732" />
+        </attvalues>
+      </node>
+      <node id="(2604, 791)" label="(2604, 791)">
+        <attvalues>
+          <attvalue for="0" value="2604" />
+          <attvalue for="1" value="791" />
+        </attvalues>
+      </node>
+      <node id="(2928, 672)" label="(2928, 672)">
+        <attvalues>
+          <attvalue for="0" value="2928" />
+          <attvalue for="1" value="672" />
+        </attvalues>
+      </node>
+      <node id="(3038, 1034)" label="(3038, 1034)">
+        <attvalues>
+          <attvalue for="0" value="3038" />
+          <attvalue for="1" value="1034" />
+        </attvalues>
+      </node>
+      <node id="(2494, 543)" label="(2494, 543)">
+        <attvalues>
+          <attvalue for="0" value="2494" />
+          <attvalue for="1" value="543" />
+        </attvalues>
+      </node>
+      <node id="(2071, 745)" label="(2071, 745)">
+        <attvalues>
+          <attvalue for="0" value="2071" />
+          <attvalue for="1" value="745" />
+        </attvalues>
+      </node>
+      <node id="(5259, 1755)" label="(5259, 1755)">
+        <attvalues>
+          <attvalue for="0" value="5259" />
+          <attvalue for="1" value="1755" />
+        </attvalues>
+      </node>
+      <node id="(5286, 1870)" label="(5286, 1870)">
+        <attvalues>
+          <attvalue for="0" value="5286" />
+          <attvalue for="1" value="1870" />
+        </attvalues>
+      </node>
+      <node id="(4892, 1786)" label="(4892, 1786)">
+        <attvalues>
+          <attvalue for="0" value="4892" />
+          <attvalue for="1" value="1786" />
+        </attvalues>
+      </node>
+      <node id="(6207, 1880)" label="(6207, 1880)">
+        <attvalues>
+          <attvalue for="0" value="6207" />
+          <attvalue for="1" value="1880" />
+        </attvalues>
+      </node>
+      <node id="(3931, 1728)" label="(3931, 1728)">
+        <attvalues>
+          <attvalue for="0" value="3931" />
+          <attvalue for="1" value="1728" />
+        </attvalues>
+      </node>
+      <node id="(3668, 1762)" label="(3668, 1762)">
+        <attvalues>
+          <attvalue for="0" value="3668" />
+          <attvalue for="1" value="1762" />
+        </attvalues>
+      </node>
+      <node id="(1021, 1983)" label="(1021, 1983)">
+        <attvalues>
+          <attvalue for="0" value="1021" />
+          <attvalue for="1" value="1983" />
+        </attvalues>
+      </node>
+      <node id="(1289, 2103)" label="(1289, 2103)">
+        <attvalues>
+          <attvalue for="0" value="1289" />
+          <attvalue for="1" value="2103" />
+        </attvalues>
+      </node>
+      <node id="(606, 2321)" label="(606, 2321)">
+        <attvalues>
+          <attvalue for="0" value="606" />
+          <attvalue for="1" value="2321" />
+        </attvalues>
+      </node>
+      <node id="(951, 1951)" label="(951, 1951)">
+        <attvalues>
+          <attvalue for="0" value="951" />
+          <attvalue for="1" value="1951" />
+        </attvalues>
+      </node>
+      <node id="(1895, 2318)" label="(1895, 2318)">
+        <attvalues>
+          <attvalue for="0" value="1895" />
+          <attvalue for="1" value="2318" />
+        </attvalues>
+      </node>
+      <node id="(2253, 3248)" label="(2253, 3248)">
+        <attvalues>
+          <attvalue for="0" value="2253" />
+          <attvalue for="1" value="3248" />
+        </attvalues>
+      </node>
+      <node id="(1921, 2216)" label="(1921, 2216)">
+        <attvalues>
+          <attvalue for="0" value="1921" />
+          <attvalue for="1" value="2216" />
+        </attvalues>
+      </node>
+      <node id="(1924, 2326)" label="(1924, 2326)">
+        <attvalues>
+          <attvalue for="0" value="1924" />
+          <attvalue for="1" value="2326" />
+        </attvalues>
+      </node>
+      <node id="(4034, 1520)" label="(4034, 1520)">
+        <attvalues>
+          <attvalue for="0" value="4034" />
+          <attvalue for="1" value="1520" />
+        </attvalues>
+      </node>
+      <node id="(2581, 1197)" label="(2581, 1197)">
+        <attvalues>
+          <attvalue for="0" value="2581" />
+          <attvalue for="1" value="1197" />
+        </attvalues>
+      </node>
+      <node id="(5515, 2931)" label="(5515, 2931)">
+        <attvalues>
+          <attvalue for="0" value="5515" />
+          <attvalue for="1" value="2931" />
+        </attvalues>
+      </node>
+      <node id="(5695, 3046)" label="(5695, 3046)">
+        <attvalues>
+          <attvalue for="0" value="5695" />
+          <attvalue for="1" value="3046" />
+        </attvalues>
+      </node>
+      <node id="(5491, 2987)" label="(5491, 2987)">
+        <attvalues>
+          <attvalue for="0" value="5491" />
+          <attvalue for="1" value="2987" />
+        </attvalues>
+      </node>
+      <node id="(7289, 2858)" label="(7289, 2858)">
+        <attvalues>
+          <attvalue for="0" value="7289" />
+          <attvalue for="1" value="2858" />
+        </attvalues>
+      </node>
+      <node id="(7173, 2889)" label="(7173, 2889)">
+        <attvalues>
+          <attvalue for="0" value="7173" />
+          <attvalue for="1" value="2889" />
+        </attvalues>
+      </node>
+      <node id="(4405, 1122)" label="(4405, 1122)">
+        <attvalues>
+          <attvalue for="0" value="4405" />
+          <attvalue for="1" value="1122" />
+        </attvalues>
+      </node>
+      <node id="(4655, 948)" label="(4655, 948)">
+        <attvalues>
+          <attvalue for="0" value="4655" />
+          <attvalue for="1" value="948" />
+        </attvalues>
+      </node>
+      <node id="(4332, 706)" label="(4332, 706)">
+        <attvalues>
+          <attvalue for="0" value="4332" />
+          <attvalue for="1" value="706" />
+        </attvalues>
+      </node>
+      <node id="(6271, 2464)" label="(6271, 2464)">
+        <attvalues>
+          <attvalue for="0" value="6271" />
+          <attvalue for="1" value="2464" />
+        </attvalues>
+      </node>
+      <node id="(4604, 1752)" label="(4604, 1752)">
+        <attvalues>
+          <attvalue for="0" value="4604" />
+          <attvalue for="1" value="1752" />
+        </attvalues>
+      </node>
+      <node id="(4620, 1829)" label="(4620, 1829)">
+        <attvalues>
+          <attvalue for="0" value="4620" />
+          <attvalue for="1" value="1829" />
+        </attvalues>
+      </node>
+      <node id="(3322, 1813)" label="(3322, 1813)">
+        <attvalues>
+          <attvalue for="0" value="3322" />
+          <attvalue for="1" value="1813" />
+        </attvalues>
+      </node>
+      <node id="(2219, 2017)" label="(2219, 2017)">
+        <attvalues>
+          <attvalue for="0" value="2219" />
+          <attvalue for="1" value="2017" />
+        </attvalues>
+      </node>
+      <node id="(3329, 1737)" label="(3329, 1737)">
+        <attvalues>
+          <attvalue for="0" value="3329" />
+          <attvalue for="1" value="1737" />
+        </attvalues>
+      </node>
+      <node id="(3505, 1823)" label="(3505, 1823)">
+        <attvalues>
+          <attvalue for="0" value="3505" />
+          <attvalue for="1" value="1823" />
+        </attvalues>
+      </node>
+      <node id="(5282, 1920)" label="(5282, 1920)">
+        <attvalues>
+          <attvalue for="0" value="5282" />
+          <attvalue for="1" value="1920" />
+        </attvalues>
+      </node>
+      <node id="(5294, 1921)" label="(5294, 1921)">
+        <attvalues>
+          <attvalue for="0" value="5294" />
+          <attvalue for="1" value="1921" />
+        </attvalues>
+      </node>
+      <node id="(1461, 1386)" label="(1461, 1386)">
+        <attvalues>
+          <attvalue for="0" value="1461" />
+          <attvalue for="1" value="1386" />
+        </attvalues>
+      </node>
+      <node id="(4277, 1654)" label="(4277, 1654)">
+        <attvalues>
+          <attvalue for="0" value="4277" />
+          <attvalue for="1" value="1654" />
+        </attvalues>
+      </node>
+      <node id="(4244, 1775)" label="(4244, 1775)">
+        <attvalues>
+          <attvalue for="0" value="4244" />
+          <attvalue for="1" value="1775" />
+        </attvalues>
+      </node>
+      <node id="(2736, 857)" label="(2736, 857)">
+        <attvalues>
+          <attvalue for="0" value="2736" />
+          <attvalue for="1" value="857" />
+        </attvalues>
+      </node>
+      <node id="(908, 1441)" label="(908, 1441)">
+        <attvalues>
+          <attvalue for="0" value="908" />
+          <attvalue for="1" value="1441" />
+        </attvalues>
+      </node>
+      <node id="(5507, 824)" label="(5507, 824)">
+        <attvalues>
+          <attvalue for="0" value="5507" />
+          <attvalue for="1" value="824" />
+        </attvalues>
+      </node>
+      <node id="(3409, 1526)" label="(3409, 1526)">
+        <attvalues>
+          <attvalue for="0" value="3409" />
+          <attvalue for="1" value="1526" />
+        </attvalues>
+      </node>
+      <node id="(1686, 2217)" label="(1686, 2217)">
+        <attvalues>
+          <attvalue for="0" value="1686" />
+          <attvalue for="1" value="2217" />
+        </attvalues>
+      </node>
+      <node id="(1222, 3184)" label="(1222, 3184)">
+        <attvalues>
+          <attvalue for="0" value="1222" />
+          <attvalue for="1" value="3184" />
+        </attvalues>
+      </node>
+      <node id="(4528, 1834)" label="(4528, 1834)">
+        <attvalues>
+          <attvalue for="0" value="4528" />
+          <attvalue for="1" value="1834" />
+        </attvalues>
+      </node>
+      <node id="(4529, 1762)" label="(4529, 1762)">
+        <attvalues>
+          <attvalue for="0" value="4529" />
+          <attvalue for="1" value="1762" />
+        </attvalues>
+      </node>
+      <node id="(4383, 1835)" label="(4383, 1835)">
+        <attvalues>
+          <attvalue for="0" value="4383" />
+          <attvalue for="1" value="1835" />
+        </attvalues>
+      </node>
+      <node id="(6192, 2670)" label="(6192, 2670)">
+        <attvalues>
+          <attvalue for="0" value="6192" />
+          <attvalue for="1" value="2670" />
+        </attvalues>
+      </node>
+      <node id="(6414, 1958)" label="(6414, 1958)">
+        <attvalues>
+          <attvalue for="0" value="6414" />
+          <attvalue for="1" value="1958" />
+        </attvalues>
+      </node>
+      <node id="(4684, 411)" label="(4684, 411)">
+        <attvalues>
+          <attvalue for="0" value="4684" />
+          <attvalue for="1" value="411" />
+        </attvalues>
+      </node>
+      <node id="(3640, 1773)" label="(3640, 1773)">
+        <attvalues>
+          <attvalue for="0" value="3640" />
+          <attvalue for="1" value="1773" />
+        </attvalues>
+      </node>
+      <node id="(4061, 1738)" label="(4061, 1738)">
+        <attvalues>
+          <attvalue for="0" value="4061" />
+          <attvalue for="1" value="1738" />
+        </attvalues>
+      </node>
+      <node id="(3510, 1894)" label="(3510, 1894)">
+        <attvalues>
+          <attvalue for="0" value="3510" />
+          <attvalue for="1" value="1894" />
+        </attvalues>
+      </node>
+      <node id="(593, 589)" label="(593, 589)">
+        <attvalues>
+          <attvalue for="0" value="593" />
+          <attvalue for="1" value="589" />
+        </attvalues>
+      </node>
+      <node id="(4381, 1864)" label="(4381, 1864)">
+        <attvalues>
+          <attvalue for="0" value="4381" />
+          <attvalue for="1" value="1864" />
+        </attvalues>
+      </node>
+      <node id="(3587, 1902)" label="(3587, 1902)">
+        <attvalues>
+          <attvalue for="0" value="3587" />
+          <attvalue for="1" value="1902" />
+        </attvalues>
+      </node>
+      <node id="(985, 1649)" label="(985, 1649)">
+        <attvalues>
+          <attvalue for="0" value="985" />
+          <attvalue for="1" value="1649" />
+        </attvalues>
+      </node>
+      <node id="(1075, 1399)" label="(1075, 1399)">
+        <attvalues>
+          <attvalue for="0" value="1075" />
+          <attvalue for="1" value="1399" />
+        </attvalues>
+      </node>
+      <node id="(975, 1648)" label="(975, 1648)">
+        <attvalues>
+          <attvalue for="0" value="975" />
+          <attvalue for="1" value="1648" />
+        </attvalues>
+      </node>
+      <node id="(2239, 1939)" label="(2239, 1939)">
+        <attvalues>
+          <attvalue for="0" value="2239" />
+          <attvalue for="1" value="1939" />
+        </attvalues>
+      </node>
+      <node id="(2183, 1947)" label="(2183, 1947)">
+        <attvalues>
+          <attvalue for="0" value="2183" />
+          <attvalue for="1" value="1947" />
+        </attvalues>
+      </node>
+      <node id="(7216, 3167)" label="(7216, 3167)">
+        <attvalues>
+          <attvalue for="0" value="7216" />
+          <attvalue for="1" value="3167" />
+        </attvalues>
+      </node>
+      <node id="(6493, 2684)" label="(6493, 2684)">
+        <attvalues>
+          <attvalue for="0" value="6493" />
+          <attvalue for="1" value="2684" />
+        </attvalues>
+      </node>
+      <node id="(6772, 2396)" label="(6772, 2396)">
+        <attvalues>
+          <attvalue for="0" value="6772" />
+          <attvalue for="1" value="2396" />
+        </attvalues>
+      </node>
+      <node id="(3737, 2481)" label="(3737, 2481)">
+        <attvalues>
+          <attvalue for="0" value="3737" />
+          <attvalue for="1" value="2481" />
+        </attvalues>
+      </node>
+      <node id="(2614, 773)" label="(2614, 773)">
+        <attvalues>
+          <attvalue for="0" value="2614" />
+          <attvalue for="1" value="773" />
+        </attvalues>
+      </node>
+      <node id="(3312, 1737)" label="(3312, 1737)">
+        <attvalues>
+          <attvalue for="0" value="3312" />
+          <attvalue for="1" value="1737" />
+        </attvalues>
+      </node>
+      <node id="(4061, 1747)" label="(4061, 1747)">
+        <attvalues>
+          <attvalue for="0" value="4061" />
+          <attvalue for="1" value="1747" />
+        </attvalues>
+      </node>
+      <node id="(5560, 2577)" label="(5560, 2577)">
+        <attvalues>
+          <attvalue for="0" value="5560" />
+          <attvalue for="1" value="2577" />
+        </attvalues>
+      </node>
+      <node id="(2252, 1808)" label="(2252, 1808)">
+        <attvalues>
+          <attvalue for="0" value="2252" />
+          <attvalue for="1" value="1808" />
+        </attvalues>
+      </node>
+      <node id="(5247, 1890)" label="(5247, 1890)">
+        <attvalues>
+          <attvalue for="0" value="5247" />
+          <attvalue for="1" value="1890" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="(581, 1570)" target="(681, 1686)" id="0" />
+      <edge source="(581, 1570)" target="(123, 1314)" id="1" />
+      <edge source="(581, 1570)" target="(489, 1285)" id="2" />
+      <edge source="(681, 1686)" target="(908, 1441)" id="3" />
+      <edge source="(681, 1686)" target="(951, 1951)" id="4" />
+      <edge source="(489, 1285)" target="(514, 1018)" id="5" />
+      <edge source="(489, 1285)" target="(279, 1143)" id="6" />
+      <edge source="(454, 1001)" target="(514, 1018)" id="7" />
+      <edge source="(514, 1018)" target="(555, 888)" id="8" />
+      <edge source="(410, 823)" target="(555, 888)" id="9" />
+      <edge source="(555, 888)" target="(593, 589)" id="10" />
+      <edge source="(5329, 798)" target="(5333, 861)" id="11" />
+      <edge source="(5333, 861)" target="(4655, 948)" id="12" />
+      <edge source="(5333, 861)" target="(5507, 824)" id="13" />
+      <edge source="(1864, 1698)" target="(2167, 1929)" id="14" />
+      <edge source="(2167, 1929)" target="(2252, 1808)" id="15" />
+      <edge source="(2167, 1929)" target="(2183, 1947)" id="16" />
+      <edge source="(6791, 2770)" target="(6921, 2550)" id="17" />
+      <edge source="(6921, 2550)" target="(7173, 2889)" id="18" />
+      <edge source="(6921, 2550)" target="(6772, 2396)" id="19" />
+      <edge source="(2124, 549)" target="(2218, 607)" id="20" />
+      <edge source="(2124, 549)" target="(1987, 588)" id="21" />
+      <edge source="(2124, 549)" target="(1741, 429)" id="22" />
+      <edge source="(2218, 607)" target="(2492, 732)" id="23" />
+      <edge source="(2218, 607)" target="(2071, 745)" id="24" />
+      <edge source="(2543, 948)" target="(2698, 921)" id="25" />
+      <edge source="(2698, 921)" target="(2581, 1197)" id="26" />
+      <edge source="(2698, 921)" target="(2736, 857)" id="27" />
+      <edge source="(3811, 1812)" target="(3796, 1739)" id="28" />
+      <edge source="(3796, 1739)" target="(3931, 1728)" id="29" />
+      <edge source="(3796, 1739)" target="(3668, 1762)" id="30" />
+      <edge source="(2501, 743)" target="(2301, 907)" id="31" />
+      <edge source="(2501, 743)" target="(2492, 732)" id="32" />
+      <edge source="(2501, 743)" target="(2604, 791)" id="33" />
+      <edge source="(2492, 732)" target="(2494, 543)" id="34" />
+      <edge source="(2604, 791)" target="(2736, 857)" id="35" />
+      <edge source="(2604, 791)" target="(2614, 773)" id="36" />
+      <edge source="(2928, 672)" target="(3038, 1034)" id="37" />
+      <edge source="(3038, 1034)" target="(3640, 1773)" id="38" />
+      <edge source="(3038, 1034)" target="(2736, 857)" id="39" />
+      <edge source="(5259, 1755)" target="(5286, 1870)" id="40" />
+      <edge source="(5259, 1755)" target="(4892, 1786)" id="41" />
+      <edge source="(5259, 1755)" target="(6207, 1880)" id="42" />
+      <edge source="(5286, 1870)" target="(5294, 1921)" id="43" />
+      <edge source="(5286, 1870)" target="(5247, 1890)" id="44" />
+      <edge source="(4892, 1786)" target="(5515, 2931)" id="45" />
+      <edge source="(4892, 1786)" target="(4620, 1829)" id="46" />
+      <edge source="(6207, 1880)" target="(6271, 2464)" id="47" />
+      <edge source="(6207, 1880)" target="(6414, 1958)" id="48" />
+      <edge source="(3931, 1728)" target="(4034, 1520)" id="49" />
+      <edge source="(3931, 1728)" target="(4061, 1738)" id="50" />
+      <edge source="(3668, 1762)" target="(4405, 1122)" id="51" />
+      <edge source="(3668, 1762)" target="(3640, 1773)" id="52" />
+      <edge source="(1021, 1983)" target="(1289, 2103)" id="53" />
+      <edge source="(1021, 1983)" target="(606, 2321)" id="54" />
+      <edge source="(1021, 1983)" target="(951, 1951)" id="55" />
+      <edge source="(1289, 2103)" target="(1461, 1386)" id="56" />
+      <edge source="(1289, 2103)" target="(1686, 2217)" id="57" />
+      <edge source="(951, 1951)" target="(985, 1649)" id="58" />
+      <edge source="(1895, 2318)" target="(2253, 3248)" id="59" />
+      <edge source="(1895, 2318)" target="(1921, 2216)" id="60" />
+      <edge source="(1895, 2318)" target="(1924, 2326)" id="61" />
+      <edge source="(1921, 2216)" target="(1686, 2217)" id="62" />
+      <edge source="(1921, 2216)" target="(2219, 2017)" id="63" />
+      <edge source="(5515, 2931)" target="(5695, 3046)" id="64" />
+      <edge source="(5515, 2931)" target="(5491, 2987)" id="65" />
+      <edge source="(7289, 2858)" target="(7173, 2889)" id="66" />
+      <edge source="(7173, 2889)" target="(7216, 3167)" id="67" />
+      <edge source="(4405, 1122)" target="(4655, 948)" id="68" />
+      <edge source="(4405, 1122)" target="(4332, 706)" id="69" />
+      <edge source="(4655, 948)" target="(4684, 411)" id="70" />
+      <edge source="(4604, 1752)" target="(4620, 1829)" id="71" />
+      <edge source="(4620, 1829)" target="(4528, 1834)" id="72" />
+      <edge source="(3322, 1813)" target="(2219, 2017)" id="73" />
+      <edge source="(3322, 1813)" target="(3329, 1737)" id="74" />
+      <edge source="(3322, 1813)" target="(3505, 1823)" id="75" />
+      <edge source="(2219, 2017)" target="(2183, 1947)" id="76" />
+      <edge source="(3329, 1737)" target="(3409, 1526)" id="77" />
+      <edge source="(3329, 1737)" target="(3312, 1737)" id="78" />
+      <edge source="(3505, 1823)" target="(3640, 1773)" id="79" />
+      <edge source="(3505, 1823)" target="(3510, 1894)" id="80" />
+      <edge source="(5282, 1920)" target="(5294, 1921)" id="81" />
+      <edge source="(5294, 1921)" target="(5560, 2577)" id="82" />
+      <edge source="(4277, 1654)" target="(4244, 1775)" id="83" />
+      <edge source="(4244, 1775)" target="(4383, 1835)" id="84" />
+      <edge source="(4244, 1775)" target="(4061, 1738)" id="85" />
+      <edge source="(1686, 2217)" target="(1222, 3184)" id="86" />
+      <edge source="(4528, 1834)" target="(4529, 1762)" id="87" />
+      <edge source="(4528, 1834)" target="(4383, 1835)" id="88" />
+      <edge source="(4383, 1835)" target="(4381, 1864)" id="89" />
+      <edge source="(6192, 2670)" target="(6414, 1958)" id="90" />
+      <edge source="(6414, 1958)" target="(6772, 2396)" id="91" />
+      <edge source="(4061, 1738)" target="(4061, 1747)" id="92" />
+      <edge source="(3510, 1894)" target="(3587, 1902)" id="93" />
+      <edge source="(3510, 1894)" target="(3737, 2481)" id="94" />
+      <edge source="(985, 1649)" target="(1075, 1399)" id="95" />
+      <edge source="(985, 1649)" target="(975, 1648)" id="96" />
+      <edge source="(2239, 1939)" target="(2183, 1947)" id="97" />
+      <edge source="(6493, 2684)" target="(6772, 2396)" id="98" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="(153.5, -131.0)" label="(153.5, -131.0)">
+        <attvalues>
+          <attvalue for="0" value="1.535" />
+          <attvalue for="1" value="-1.31" />
+        </attvalues>
+      </node>
+      <node id="(128.0, -36.0)" label="(128.0, -36.0)">
+        <attvalues>
+          <attvalue for="0" value="1.28" />
+          <attvalue for="1" value="-0.36" />
+        </attvalues>
+      </node>
+      <node id="(916.0, 2079.0)" label="(916.0, 2079.0)">
+        <attvalues>
+          <attvalue for="0" value="9.16" />
+          <attvalue for="1" value="20.79" />
+        </attvalues>
+      </node>
+      <node id="(918.5, 2130.0)" label="(918.5, 2130.0)">
+        <attvalues>
+          <attvalue for="0" value="9.185" />
+          <attvalue for="1" value="21.3" />
+        </attvalues>
+      </node>
+      <node id="(943.5, 1933.5)" label="(943.5, 1933.5)">
+        <attvalues>
+          <attvalue for="0" value="9.435" />
+          <attvalue for="1" value="19.335" />
+        </attvalues>
+      </node>
+      <node id="(867.5, 2093.0)" label="(867.5, 2093.0)">
+        <attvalues>
+          <attvalue for="0" value="8.675" />
+          <attvalue for="1" value="20.93" />
+        </attvalues>
+      </node>
+      <node id="(-3467.0, -1252.0)" label="(-3467.0, -1252.0)">
+        <attvalues>
+          <attvalue for="0" value="-34.67" />
+          <attvalue for="1" value="-12.52" />
+        </attvalues>
+      </node>
+      <node id="(-3084.5, -1315.0)" label="(-3084.5, -1315.0)">
+        <attvalues>
+          <attvalue for="0" value="-30.845" />
+          <attvalue for="1" value="-13.15" />
+        </attvalues>
+      </node>
+      <node id="(-2447.0, -992.5)" label="(-2447.0, -992.5)">
+        <attvalues>
+          <attvalue for="0" value="-24.47" />
+          <attvalue for="1" value="-9.925" />
+        </attvalues>
+      </node>
+      <node id="(-2450.0, -908.5)" label="(-2450.0, -908.5)">
+        <attvalues>
+          <attvalue for="0" value="-24.5" />
+          <attvalue for="1" value="-9.085" />
+        </attvalues>
+      </node>
+      <node id="(-1514.0, -784.5)" label="(-1514.0, -784.5)">
+        <attvalues>
+          <attvalue for="0" value="-15.14" />
+          <attvalue for="1" value="-7.845" />
+        </attvalues>
+      </node>
+      <node id="(-2636.5, -1056.5)" label="(-2636.5, -1056.5)">
+        <attvalues>
+          <attvalue for="0" value="-26.365" />
+          <attvalue for="1" value="-10.565" />
+        </attvalues>
+      </node>
+      <node id="(-1826.5, -1095.5)" label="(-1826.5, -1095.5)">
+        <attvalues>
+          <attvalue for="0" value="-18.265" />
+          <attvalue for="1" value="-10.955" />
+        </attvalues>
+      </node>
+      <node id="(-2050.0, -932.0)" label="(-2050.0, -932.0)">
+        <attvalues>
+          <attvalue for="0" value="-20.5" />
+          <attvalue for="1" value="-9.32" />
+        </attvalues>
+      </node>
+      <node id="(-1422.0, -976.5)" label="(-1422.0, -976.5)">
+        <attvalues>
+          <attvalue for="0" value="-14.22" />
+          <attvalue for="1" value="-9.765" />
+        </attvalues>
+      </node>
+      <node id="(-2494.0, -1418.0)" label="(-2494.0, -1418.0)">
+        <attvalues>
+          <attvalue for="0" value="-24.94" />
+          <attvalue for="1" value="-14.18" />
+        </attvalues>
+      </node>
+      <node id="(-3600.0, -881.0)" label="(-3600.0, -881.0)">
+        <attvalues>
+          <attvalue for="0" value="-36.0" />
+          <attvalue for="1" value="-8.81" />
+        </attvalues>
+      </node>
+      <node id="(-3213.5, -895.0)" label="(-3213.5, -895.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.135" />
+          <attvalue for="1" value="-8.95" />
+        </attvalues>
+      </node>
+      <node id="(-3200.5, 1322.0)" label="(-3200.5, 1322.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.005" />
+          <attvalue for="1" value="13.22" />
+        </attvalues>
+      </node>
+      <node id="(-2874.0, 1193.0)" label="(-2874.0, 1193.0)">
+        <attvalues>
+          <attvalue for="0" value="-28.74" />
+          <attvalue for="1" value="11.93" />
+        </attvalues>
+      </node>
+      <node id="(-1912.5, 865.0)" label="(-1912.5, 865.0)">
+        <attvalues>
+          <attvalue for="0" value="-19.125" />
+          <attvalue for="1" value="8.65" />
+        </attvalues>
+      </node>
+      <node id="(-1067.0, 194.5)" label="(-1067.0, 194.5)">
+        <attvalues>
+          <attvalue for="0" value="-10.67" />
+          <attvalue for="1" value="1.945" />
+        </attvalues>
+      </node>
+      <node id="(-1936.0, 983.0)" label="(-1936.0, 983.0)">
+        <attvalues>
+          <attvalue for="0" value="-19.36" />
+          <attvalue for="1" value="9.83" />
+        </attvalues>
+      </node>
+      <node id="(-2620.0, 1135.5)" label="(-2620.0, 1135.5)">
+        <attvalues>
+          <attvalue for="0" value="-26.2" />
+          <attvalue for="1" value="11.355" />
+        </attvalues>
+      </node>
+      <node id="(-1776.0, 0.0)" label="(-1776.0, 0.0)">
+        <attvalues>
+          <attvalue for="0" value="-17.76" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="(-1888.0, 18.5)" label="(-1888.0, 18.5)">
+        <attvalues>
+          <attvalue for="0" value="-18.88" />
+          <attvalue for="1" value="0.185" />
+        </attvalues>
+      </node>
+      <node id="(-3105.0, -1378.5)" label="(-3105.0, -1378.5)">
+        <attvalues>
+          <attvalue for="0" value="-31.05" />
+          <attvalue for="1" value="-13.785" />
+        </attvalues>
+      </node>
+      <node id="(-3258.0, -1732.5)" label="(-3258.0, -1732.5)">
+        <attvalues>
+          <attvalue for="0" value="-32.58" />
+          <attvalue for="1" value="-17.325" />
+        </attvalues>
+      </node>
+      <node id="(-3090.0, -1358.0)" label="(-3090.0, -1358.0)">
+        <attvalues>
+          <attvalue for="0" value="-30.9" />
+          <attvalue for="1" value="-13.58" />
+        </attvalues>
+      </node>
+      <node id="(-3287.0, -1568.0)" label="(-3287.0, -1568.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.87" />
+          <attvalue for="1" value="-15.68" />
+        </attvalues>
+      </node>
+      <node id="(-2359.5, -360.5)" label="(-2359.5, -360.5)">
+        <attvalues>
+          <attvalue for="0" value="-23.595" />
+          <attvalue for="1" value="-3.605" />
+        </attvalues>
+      </node>
+      <node id="(-2243.0, -870.5)" label="(-2243.0, -870.5)">
+        <attvalues>
+          <attvalue for="0" value="-22.43" />
+          <attvalue for="1" value="-8.705" />
+        </attvalues>
+      </node>
+      <node id="(1458.5, 1662.5)" label="(1458.5, 1662.5)">
+        <attvalues>
+          <attvalue for="0" value="14.585" />
+          <attvalue for="1" value="16.625" />
+        </attvalues>
+      </node>
+      <node id="(1070.5, 1541.0)" label="(1070.5, 1541.0)">
+        <attvalues>
+          <attvalue for="0" value="10.705" />
+          <attvalue for="1" value="15.41" />
+        </attvalues>
+      </node>
+      <node id="(-695.0, 2306.5)" label="(-695.0, 2306.5)">
+        <attvalues>
+          <attvalue for="0" value="-6.95" />
+          <attvalue for="1" value="23.065" />
+        </attvalues>
+      </node>
+      <node id="(-714.5, 2191.5)" label="(-714.5, 2191.5)">
+        <attvalues>
+          <attvalue for="0" value="-7.145" />
+          <attvalue for="1" value="21.915" />
+        </attvalues>
+      </node>
+      <node id="(-17.0, -89.5)" label="(-17.0, -89.5)">
+        <attvalues>
+          <attvalue for="0" value="-0.17" />
+          <attvalue for="1" value="-0.895" />
+        </attvalues>
+      </node>
+      <node id="(-4.0, -86.0)" label="(-4.0, -86.0)">
+        <attvalues>
+          <attvalue for="0" value="-0.04" />
+          <attvalue for="1" value="-0.86" />
+        </attvalues>
+      </node>
+      <node id="(-40.5, -54.0)" label="(-40.5, -54.0)">
+        <attvalues>
+          <attvalue for="0" value="-0.405" />
+          <attvalue for="1" value="-0.54" />
+        </attvalues>
+      </node>
+      <node id="(275.5, -659.0)" label="(275.5, -659.0)">
+        <attvalues>
+          <attvalue for="0" value="2.755" />
+          <attvalue for="1" value="-6.59" />
+        </attvalues>
+      </node>
+      <node id="(-3170.5, -885.0)" label="(-3170.5, -885.0)">
+        <attvalues>
+          <attvalue for="0" value="-31.705" />
+          <attvalue for="1" value="-8.85" />
+        </attvalues>
+      </node>
+      <node id="(-3188.5, -715.5)" label="(-3188.5, -715.5)">
+        <attvalues>
+          <attvalue for="0" value="-31.885" />
+          <attvalue for="1" value="-7.155" />
+        </attvalues>
+      </node>
+      <node id="(-2965.0, -1057.5)" label="(-2965.0, -1057.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.65" />
+          <attvalue for="1" value="-10.575" />
+        </attvalues>
+      </node>
+      <node id="(-7.0, -32.0)" label="(-7.0, -32.0)">
+        <attvalues>
+          <attvalue for="0" value="-0.07" />
+          <attvalue for="1" value="-0.32" />
+        </attvalues>
+      </node>
+      <node id="(0.0, 0.0)" label="(0.0, 0.0)">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="(-2289.5, -263.0)" label="(-2289.5, -263.0)">
+        <attvalues>
+          <attvalue for="0" value="-22.895" />
+          <attvalue for="1" value="-2.63" />
+        </attvalues>
+      </node>
+      <node id="(-2348.5, -313.5)" label="(-2348.5, -313.5)">
+        <attvalues>
+          <attvalue for="0" value="-23.485" />
+          <attvalue for="1" value="-3.135" />
+        </attvalues>
+      </node>
+      <node id="(-2240.5, -314.5)" label="(-2240.5, -314.5)">
+        <attvalues>
+          <attvalue for="0" value="-22.405" />
+          <attvalue for="1" value="-3.145" />
+        </attvalues>
+      </node>
+      <node id="(-2026.0, -78.5)" label="(-2026.0, -78.5)">
+        <attvalues>
+          <attvalue for="0" value="-20.26" />
+          <attvalue for="1" value="-0.785" />
+        </attvalues>
+      </node>
+      <node id="(-2729.0, -1379.0)" label="(-2729.0, -1379.0)">
+        <attvalues>
+          <attvalue for="0" value="-27.29" />
+          <attvalue for="1" value="-13.79" />
+        </attvalues>
+      </node>
+      <node id="(-2940.0, -1571.0)" label="(-2940.0, -1571.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.4" />
+          <attvalue for="1" value="-15.71" />
+        </attvalues>
+      </node>
+      <node id="(-1954.5, 999.5)" label="(-1954.5, 999.5)">
+        <attvalues>
+          <attvalue for="0" value="-19.545" />
+          <attvalue for="1" value="9.995" />
+        </attvalues>
+      </node>
+      <node id="(-1512.5, 969.5)" label="(-1512.5, 969.5)">
+        <attvalues>
+          <attvalue for="0" value="-15.125" />
+          <attvalue for="1" value="9.695" />
+        </attvalues>
+      </node>
+      <node id="(-2936.5, -997.0)" label="(-2936.5, -997.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.365" />
+          <attvalue for="1" value="-9.97" />
+        </attvalues>
+      </node>
+      <node id="(-2936.0, -1018.5)" label="(-2936.0, -1018.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.36" />
+          <attvalue for="1" value="-10.185" />
+        </attvalues>
+      </node>
+      <node id="(-3090.0, -759.0)" label="(-3090.0, -759.0)">
+        <attvalues>
+          <attvalue for="0" value="-30.9" />
+          <attvalue for="1" value="-7.59" />
+        </attvalues>
+      </node>
+      <node id="(-2750.5, -667.0)" label="(-2750.5, -667.0)">
+        <attvalues>
+          <attvalue for="0" value="-27.505" />
+          <attvalue for="1" value="-6.67" />
+        </attvalues>
+      </node>
+      <node id="(-1681.0, 158.5)" label="(-1681.0, 158.5)">
+        <attvalues>
+          <attvalue for="0" value="-16.81" />
+          <attvalue for="1" value="1.585" />
+        </attvalues>
+      </node>
+      <node id="(-1354.0, 184.0)" label="(-1354.0, 184.0)">
+        <attvalues>
+          <attvalue for="0" value="-13.54" />
+          <attvalue for="1" value="1.84" />
+        </attvalues>
+      </node>
+      <node id="(-1831.0, 249.0)" label="(-1831.0, 249.0)">
+        <attvalues>
+          <attvalue for="0" value="-18.31" />
+          <attvalue for="1" value="2.49" />
+        </attvalues>
+      </node>
+      <node id="(-269.5, 420.5)" label="(-269.5, 420.5)">
+        <attvalues>
+          <attvalue for="0" value="-2.695" />
+          <attvalue for="1" value="4.205" />
+        </attvalues>
+      </node>
+      <node id="(-133.5, 38.0)" label="(-133.5, 38.0)">
+        <attvalues>
+          <attvalue for="0" value="-1.335" />
+          <attvalue for="1" value="0.38" />
+        </attvalues>
+      </node>
+      <node id="(1019.5, 1718.5)" label="(1019.5, 1718.5)">
+        <attvalues>
+          <attvalue for="0" value="10.195" />
+          <attvalue for="1" value="17.185" />
+        </attvalues>
+      </node>
+      <node id="(1348.5, 170.0)" label="(1348.5, 170.0)">
+        <attvalues>
+          <attvalue for="0" value="13.485" />
+          <attvalue for="1" value="1.7" />
+        </attvalues>
+      </node>
+      <node id="(-2454.0, -351.5)" label="(-2454.0, -351.5)">
+        <attvalues>
+          <attvalue for="0" value="-24.54" />
+          <attvalue for="1" value="-3.515" />
+        </attvalues>
+      </node>
+      <node id="(-2865.0, 1720.5)" label="(-2865.0, 1720.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.65" />
+          <attvalue for="1" value="17.205" />
+        </attvalues>
+      </node>
+      <node id="(-2828.5, 1726.0)" label="(-2828.5, 1726.0)">
+        <attvalues>
+          <attvalue for="0" value="-28.285" />
+          <attvalue for="1" value="17.26" />
+        </attvalues>
+      </node>
+      <node id="(-2815.5, 1557.5)" label="(-2815.5, 1557.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.155" />
+          <attvalue for="1" value="15.575" />
+        </attvalues>
+      </node>
+      <node id="(-2958.0, 1745.5)" label="(-2958.0, 1745.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.58" />
+          <attvalue for="1" value="17.455" />
+        </attvalues>
+      </node>
+      <node id="(-580.0, 293.0)" label="(-580.0, 293.0)">
+        <attvalues>
+          <attvalue for="0" value="-5.8" />
+          <attvalue for="1" value="2.93" />
+        </attvalues>
+      </node>
+      <node id="(-613.5, 257.5)" label="(-613.5, 257.5)">
+        <attvalues>
+          <attvalue for="0" value="-6.135" />
+          <attvalue for="1" value="2.575" />
+        </attvalues>
+      </node>
+      <node id="(-588.5, -625.5)" label="(-588.5, -625.5)">
+        <attvalues>
+          <attvalue for="0" value="-5.885" />
+          <attvalue for="1" value="-6.255" />
+        </attvalues>
+      </node>
+      <node id="(-632.5, -612.0)" label="(-632.5, -612.0)">
+        <attvalues>
+          <attvalue for="0" value="-6.325" />
+          <attvalue for="1" value="-6.12" />
+        </attvalues>
+      </node>
+      <node id="(-1179.0, -874.5)" label="(-1179.0, -874.5)">
+        <attvalues>
+          <attvalue for="0" value="-11.79" />
+          <attvalue for="1" value="-8.745" />
+        </attvalues>
+      </node>
+      <node id="(-493.0, -541.0)" label="(-493.0, -541.0)">
+        <attvalues>
+          <attvalue for="0" value="-4.93" />
+          <attvalue for="1" value="-5.41" />
+        </attvalues>
+      </node>
+      <node id="(-3200.5, 923.5)" label="(-3200.5, 923.5)">
+        <attvalues>
+          <attvalue for="0" value="-32.005" />
+          <attvalue for="1" value="9.235" />
+        </attvalues>
+      </node>
+      <node id="(-2366.0, 1356.0)" label="(-2366.0, 1356.0)">
+        <attvalues>
+          <attvalue for="0" value="-23.66" />
+          <attvalue for="1" value="13.56" />
+        </attvalues>
+      </node>
+      <node id="(-2903.0, 1874.0)" label="(-2903.0, 1874.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.03" />
+          <attvalue for="1" value="18.74" />
+        </attvalues>
+      </node>
+      <node id="(-3197.0, -714.5)" label="(-3197.0, -714.5)">
+        <attvalues>
+          <attvalue for="0" value="-31.97" />
+          <attvalue for="1" value="-7.145" />
+        </attvalues>
+      </node>
+      <node id="(-383.0, -375.5)" label="(-383.0, -375.5)">
+        <attvalues>
+          <attvalue for="0" value="-3.83" />
+          <attvalue for="1" value="-3.755" />
+        </attvalues>
+      </node>
+      <node id="(-470.0, -516.0)" label="(-470.0, -516.0)">
+        <attvalues>
+          <attvalue for="0" value="-4.7" />
+          <attvalue for="1" value="-5.16" />
+        </attvalues>
+      </node>
+      <node id="(-167.5, -114.5)" label="(-167.5, -114.5)">
+        <attvalues>
+          <attvalue for="0" value="-1.675" />
+          <attvalue for="1" value="-1.145" />
+        </attvalues>
+      </node>
+      <node id="(-415.0, -355.5)" label="(-415.0, -355.5)">
+        <attvalues>
+          <attvalue for="0" value="-4.15" />
+          <attvalue for="1" value="-3.555" />
+        </attvalues>
+      </node>
+      <node id="(-2932.0, 1452.0)" label="(-2932.0, 1452.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.32" />
+          <attvalue for="1" value="14.52" />
+        </attvalues>
+      </node>
+      <node id="(-2833.0, 1277.5)" label="(-2833.0, 1277.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.33" />
+          <attvalue for="1" value="12.775" />
+        </attvalues>
+      </node>
+      <node id="(-2962.5, 1464.0)" label="(-2962.5, 1464.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.625" />
+          <attvalue for="1" value="14.64" />
+        </attvalues>
+      </node>
+      <node id="(-2980.0, 1523.5)" label="(-2980.0, 1523.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.8" />
+          <attvalue for="1" value="15.235" />
+        </attvalues>
+      </node>
+      <node id="(-2716.0, 1485.5)" label="(-2716.0, 1485.5)">
+        <attvalues>
+          <attvalue for="0" value="-27.16" />
+          <attvalue for="1" value="14.855" />
+        </attvalues>
+      </node>
+      <node id="(-2485.0, 1169.0)" label="(-2485.0, 1169.0)">
+        <attvalues>
+          <attvalue for="0" value="-24.85" />
+          <attvalue for="1" value="11.69" />
+        </attvalues>
+      </node>
+      <node id="(822.0, 2023.0)" label="(822.0, 2023.0)">
+        <attvalues>
+          <attvalue for="0" value="8.22" />
+          <attvalue for="1" value="20.23" />
+        </attvalues>
+      </node>
+      <node id="(971.5, 1855.5)" label="(971.5, 1855.5)">
+        <attvalues>
+          <attvalue for="0" value="9.715" />
+          <attvalue for="1" value="18.555" />
+        </attvalues>
+      </node>
+      <node id="(-1315.5, -885.5)" label="(-1315.5, -885.5)">
+        <attvalues>
+          <attvalue for="0" value="-13.155" />
+          <attvalue for="1" value="-8.855" />
+        </attvalues>
+      </node>
+      <node id="(-1416.0, -809.5)" label="(-1416.0, -809.5)">
+        <attvalues>
+          <attvalue for="0" value="-14.16" />
+          <attvalue for="1" value="-8.095" />
+        </attvalues>
+      </node>
+      <node id="(-1302.0, -551.5)" label="(-1302.0, -551.5)">
+        <attvalues>
+          <attvalue for="0" value="-13.02" />
+          <attvalue for="1" value="-5.515" />
+        </attvalues>
+      </node>
+      <node id="(-2449.5, -467.5)" label="(-2449.5, -467.5)">
+        <attvalues>
+          <attvalue for="0" value="-24.495" />
+          <attvalue for="1" value="-4.675" />
+        </attvalues>
+      </node>
+      <node id="(-740.0, 218.5)" label="(-740.0, 218.5)">
+        <attvalues>
+          <attvalue for="0" value="-7.4" />
+          <attvalue for="1" value="2.185" />
+        </attvalues>
+      </node>
+      <node id="(-766.5, 298.0)" label="(-766.5, 298.0)">
+        <attvalues>
+          <attvalue for="0" value="-7.665" />
+          <attvalue for="1" value="2.98" />
+        </attvalues>
+      </node>
+      <node id="(-614.0, 227.5)" label="(-614.0, 227.5)">
+        <attvalues>
+          <attvalue for="0" value="-6.14" />
+          <attvalue for="1" value="2.275" />
+        </attvalues>
+      </node>
+      <node id="(-2870.0, 1580.5)" label="(-2870.0, 1580.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.7" />
+          <attvalue for="1" value="15.805" />
+        </attvalues>
+      </node>
+      <node id="(-2923.0, 1586.5)" label="(-2923.0, 1586.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.23" />
+          <attvalue for="1" value="15.865" />
+        </attvalues>
+      </node>
+      <node id="(-3188.5, 1746.0)" label="(-3188.5, 1746.0)">
+        <attvalues>
+          <attvalue for="0" value="-31.885" />
+          <attvalue for="1" value="17.46" />
+        </attvalues>
+      </node>
+      <node id="(-3253.0, -603.0)" label="(-3253.0, -603.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.53" />
+          <attvalue for="1" value="-6.03" />
+        </attvalues>
+      </node>
+      <node id="(917.5, -119.0)" label="(917.5, -119.0)">
+        <attvalues>
+          <attvalue for="0" value="9.175" />
+          <attvalue for="1" value="-1.19" />
+        </attvalues>
+      </node>
+      <node id="(868.5, 81.5)" label="(868.5, 81.5)">
+        <attvalues>
+          <attvalue for="0" value="8.685" />
+          <attvalue for="1" value="0.815" />
+        </attvalues>
+      </node>
+      <node id="(-2274.5, -719.5)" label="(-2274.5, -719.5)">
+        <attvalues>
+          <attvalue for="0" value="-22.745" />
+          <attvalue for="1" value="-7.195" />
+        </attvalues>
+      </node>
+      <node id="(1428.0, 155.5)" label="(1428.0, 155.5)">
+        <attvalues>
+          <attvalue for="0" value="14.28" />
+          <attvalue for="1" value="1.555" />
+        </attvalues>
+      </node>
+      <node id="(1426.5, 186.0)" label="(1426.5, 186.0)">
+        <attvalues>
+          <attvalue for="0" value="14.265" />
+          <attvalue for="1" value="1.86" />
+        </attvalues>
+      </node>
+      <node id="(2211.0, -477.5)" label="(2211.0, -477.5)">
+        <attvalues>
+          <attvalue for="0" value="22.11" />
+          <attvalue for="1" value="-4.775" />
+        </attvalues>
+      </node>
+      <node id="(780.5, 1946.0)" label="(780.5, 1946.0)">
+        <attvalues>
+          <attvalue for="0" value="7.805" />
+          <attvalue for="1" value="19.46" />
+        </attvalues>
+      </node>
+      <node id="(2247.5, -477.5)" label="(2247.5, -477.5)">
+        <attvalues>
+          <attvalue for="0" value="22.475" />
+          <attvalue for="1" value="-4.775" />
+        </attvalues>
+      </node>
+      <node id="(2473.0, -1049.0)" label="(2473.0, -1049.0)">
+        <attvalues>
+          <attvalue for="0" value="24.73" />
+          <attvalue for="1" value="-10.49" />
+        </attvalues>
+      </node>
+      <node id="(2811.0, -554.0)" label="(2811.0, -554.0)">
+        <attvalues>
+          <attvalue for="0" value="28.11" />
+          <attvalue for="1" value="-5.54" />
+        </attvalues>
+      </node>
+      <node id="(1253.5, 137.0)" label="(1253.5, 137.0)">
+        <attvalues>
+          <attvalue for="0" value="12.535" />
+          <attvalue for="1" value="1.37" />
+        </attvalues>
+      </node>
+      <node id="(1198.0, 193.0)" label="(1198.0, 193.0)">
+        <attvalues>
+          <attvalue for="0" value="11.98" />
+          <attvalue for="1" value="1.93" />
+        </attvalues>
+      </node>
+      <node id="(-2077.0, 1196.5)" label="(-2077.0, 1196.5)">
+        <attvalues>
+          <attvalue for="0" value="-20.77" />
+          <attvalue for="1" value="11.965" />
+        </attvalues>
+      </node>
+      <node id="(1574.0, 277.0)" label="(1574.0, 277.0)">
+        <attvalues>
+          <attvalue for="0" value="15.74" />
+          <attvalue for="1" value="2.77" />
+        </attvalues>
+      </node>
+      <node id="(1423.5, 186.0)" label="(1423.5, 186.0)">
+        <attvalues>
+          <attvalue for="0" value="14.235" />
+          <attvalue for="1" value="1.86" />
+        </attvalues>
+      </node>
+      <node id="(-2957.5, -1057.5)" label="(-2957.5, -1057.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.575" />
+          <attvalue for="1" value="-10.575" />
+        </attvalues>
+      </node>
+      <node id="(-2909.0, -1068.5)" label="(-2909.0, -1068.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.09" />
+          <attvalue for="1" value="-10.685" />
+        </attvalues>
+      </node>
+      <node id="(-2001.5, -93.0)" label="(-2001.5, -93.0)">
+        <attvalues>
+          <attvalue for="0" value="-20.015" />
+          <attvalue for="1" value="-0.93" />
+        </attvalues>
+      </node>
+      <node id="(-1988.0, -55.0)" label="(-1988.0, -55.0)">
+        <attvalues>
+          <attvalue for="0" value="-19.88" />
+          <attvalue for="1" value="-0.55" />
+        </attvalues>
+      </node>
+      <node id="(-2807.0, 1206.5)" label="(-2807.0, 1206.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.07" />
+          <attvalue for="1" value="12.065" />
+        </attvalues>
+      </node>
+      <node id="(-2616.0, 1094.5)" label="(-2616.0, 1094.5)">
+        <attvalues>
+          <attvalue for="0" value="-26.16" />
+          <attvalue for="1" value="10.945" />
+        </attvalues>
+      </node>
+      <node id="(-449.0, -550.5)" label="(-449.0, -550.5)">
+        <attvalues>
+          <attvalue for="0" value="-4.49" />
+          <attvalue for="1" value="-5.505" />
+        </attvalues>
+      </node>
+      <node id="(-2896.0, -1249.5)" label="(-2896.0, -1249.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.96" />
+          <attvalue for="1" value="-12.495" />
+        </attvalues>
+      </node>
+      <node id="(-2831.0, -1253.5)" label="(-2831.0, -1253.5)">
+        <attvalues>
+          <attvalue for="0" value="-28.31" />
+          <attvalue for="1" value="-12.535" />
+        </attvalues>
+      </node>
+      <node id="(-169.0, -111.5)" label="(-169.0, -111.5)">
+        <attvalues>
+          <attvalue for="0" value="-1.69" />
+          <attvalue for="1" value="-1.115" />
+        </attvalues>
+      </node>
+      <node id="(-119.5, -103.0)" label="(-119.5, -103.0)">
+        <attvalues>
+          <attvalue for="0" value="-1.195" />
+          <attvalue for="1" value="-1.03" />
+        </attvalues>
+      </node>
+      <node id="(-1419.5, -1570.0)" label="(-1419.5, -1570.0)">
+        <attvalues>
+          <attvalue for="0" value="-14.195" />
+          <attvalue for="1" value="-15.7" />
+        </attvalues>
+      </node>
+      <node id="(-77.0, -212.5)" label="(-77.0, -212.5)">
+        <attvalues>
+          <attvalue for="0" value="-0.77" />
+          <attvalue for="1" value="-2.125" />
+        </attvalues>
+      </node>
+      <node id="(-2990.0, 1773.5)" label="(-2990.0, 1773.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.9" />
+          <attvalue for="1" value="17.735" />
+        </attvalues>
+      </node>
+      <node id="(-2934.5, -214.0)" label="(-2934.5, -214.0)">
+        <attvalues>
+          <attvalue for="0" value="-29.345" />
+          <attvalue for="1" value="-2.14" />
+        </attvalues>
+      </node>
+      <node id="(349.5, 341.0)" label="(349.5, 341.0)">
+        <attvalues>
+          <attvalue for="0" value="3.495" />
+          <attvalue for="1" value="3.41" />
+        </attvalues>
+      </node>
+      <node id="(271.0, 43.5)" label="(271.0, 43.5)">
+        <attvalues>
+          <attvalue for="0" value="2.71" />
+          <attvalue for="1" value="0.435" />
+        </attvalues>
+      </node>
+      <node id="(2228.5, -745.0)" label="(2228.5, -745.0)">
+        <attvalues>
+          <attvalue for="0" value="22.285" />
+          <attvalue for="1" value="-7.45" />
+        </attvalues>
+      </node>
+      <node id="(-2972.0, 1735.5)" label="(-2972.0, 1735.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.72" />
+          <attvalue for="1" value="17.355" />
+        </attvalues>
+      </node>
+      <node id="(-3299.0, -1566.0)" label="(-3299.0, -1566.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.99" />
+          <attvalue for="1" value="-15.66" />
+        </attvalues>
+      </node>
+      <node id="(-3288.5, -1576.5)" label="(-3288.5, -1576.5)">
+        <attvalues>
+          <attvalue for="0" value="-32.885" />
+          <attvalue for="1" value="-15.765" />
+        </attvalues>
+      </node>
+      <node id="(-3144.0, -18.5)" label="(-3144.0, -18.5)">
+        <attvalues>
+          <attvalue for="0" value="-31.44" />
+          <attvalue for="1" value="-0.185" />
+        </attvalues>
+      </node>
+      <node id="(-1503.5, -717.5)" label="(-1503.5, -717.5)">
+        <attvalues>
+          <attvalue for="0" value="-15.035" />
+          <attvalue for="1" value="-7.175" />
+        </attvalues>
+      </node>
+      <node id="(-3052.5, -1164.0)" label="(-3052.5, -1164.0)">
+        <attvalues>
+          <attvalue for="0" value="-30.525" />
+          <attvalue for="1" value="-11.64" />
+        </attvalues>
+      </node>
+      <node id="(-2948.5, -1294.5)" label="(-2948.5, -1294.5)">
+        <attvalues>
+          <attvalue for="0" value="-29.485" />
+          <attvalue for="1" value="-12.945" />
+        </attvalues>
+      </node>
+      <node id="(-340.0, 122.5)" label="(-340.0, 122.5)">
+        <attvalues>
+          <attvalue for="0" value="-3.4" />
+          <attvalue for="1" value="1.225" />
+        </attvalues>
+      </node>
+      <node id="(203.0, 40.5)" label="(203.0, 40.5)">
+        <attvalues>
+          <attvalue for="0" value="2.03" />
+          <attvalue for="1" value="0.405" />
+        </attvalues>
+      </node>
+      <node id="(-2782.5, -1229.0)" label="(-2782.5, -1229.0)">
+        <attvalues>
+          <attvalue for="0" value="-27.825" />
+          <attvalue for="1" value="-12.29" />
+        </attvalues>
+      </node>
+      <node id="(-2775.0, -1113.5)" label="(-2775.0, -1113.5)">
+        <attvalues>
+          <attvalue for="0" value="-27.75" />
+          <attvalue for="1" value="-11.135" />
+        </attvalues>
+      </node>
+      <node id="(690.5, 77.5)" label="(690.5, 77.5)">
+        <attvalues>
+          <attvalue for="0" value="6.905" />
+          <attvalue for="1" value="0.775" />
+        </attvalues>
+      </node>
+      <node id="(697.0, 1748.0)" label="(697.0, 1748.0)">
+        <attvalues>
+          <attvalue for="0" value="6.97" />
+          <attvalue for="1" value="17.48" />
+        </attvalues>
+      </node>
+      <node id="(-460.5, -601.0)" label="(-460.5, -601.0)">
+        <attvalues>
+          <attvalue for="0" value="-4.605" />
+          <attvalue for="1" value="-6.01" />
+        </attvalues>
+      </node>
+      <node id="(-646.5, 320.5)" label="(-646.5, 320.5)">
+        <attvalues>
+          <attvalue for="0" value="-6.465" />
+          <attvalue for="1" value="3.205" />
+        </attvalues>
+      </node>
+      <node id="(454.0, 64.5)" label="(454.0, 64.5)">
+        <attvalues>
+          <attvalue for="0" value="4.54" />
+          <attvalue for="1" value="0.645" />
+        </attvalues>
+      </node>
+      <node id="(445.0, -93.0)" label="(445.0, -93.0)">
+        <attvalues>
+          <attvalue for="0" value="4.45" />
+          <attvalue for="1" value="-0.93" />
+        </attvalues>
+      </node>
+      <node id="(-3256.5, -2031.0)" label="(-3256.5, -2031.0)">
+        <attvalues>
+          <attvalue for="0" value="-32.565" />
+          <attvalue for="1" value="-20.31" />
+        </attvalues>
+      </node>
+      <node id="(-742.0, 744.0)" label="(-742.0, 744.0)">
+        <attvalues>
+          <attvalue for="0" value="-7.42" />
+          <attvalue for="1" value="7.44" />
+        </attvalues>
+      </node>
+      <node id="(-252.5, 981.5)" label="(-252.5, 981.5)">
+        <attvalues>
+          <attvalue for="0" value="-2.525" />
+          <attvalue for="1" value="9.815" />
+        </attvalues>
+      </node>
+      <node id="(637.0, 881.5)" label="(637.0, 881.5)">
+        <attvalues>
+          <attvalue for="0" value="6.37" />
+          <attvalue for="1" value="8.815" />
+        </attvalues>
+      </node>
+      <node id="(-293.5, 172.0)" label="(-293.5, 172.0)">
+        <attvalues>
+          <attvalue for="0" value="-2.935" />
+          <attvalue for="1" value="1.72" />
+        </attvalues>
+      </node>
+      <node id="(-2651.5, 1077.0)" label="(-2651.5, 1077.0)">
+        <attvalues>
+          <attvalue for="0" value="-26.515" />
+          <attvalue for="1" value="10.77" />
+        </attvalues>
+      </node>
+      <node id="(-784.0, 2260.5)" label="(-784.0, 2260.5)">
+        <attvalues>
+          <attvalue for="0" value="-7.84" />
+          <attvalue for="1" value="22.605" />
+        </attvalues>
+      </node>
+      <node id="(-3519.5, -638.5)" label="(-3519.5, -638.5)">
+        <attvalues>
+          <attvalue for="0" value="-35.195" />
+          <attvalue for="1" value="-6.385" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="(153.5, -131.0)" target="(128.0, -36.0)" id="0" />
+      <edge source="(128.0, -36.0)" target="(-4.0, -86.0)" id="1" />
+      <edge source="(128.0, -36.0)" target="(203.0, 40.5)" id="2" />
+      <edge source="(916.0, 2079.0)" target="(918.5, 2130.0)" id="3" />
+      <edge source="(916.0, 2079.0)" target="(943.5, 1933.5)" id="4" />
+      <edge source="(916.0, 2079.0)" target="(867.5, 2093.0)" id="5" />
+      <edge source="(943.5, 1933.5)" target="(822.0, 2023.0)" id="6" />
+      <edge source="(943.5, 1933.5)" target="(971.5, 1855.5)" id="7" />
+      <edge source="(-3467.0, -1252.0)" target="(-3084.5, -1315.0)" id="8" />
+      <edge source="(-3084.5, -1315.0)" target="(-3090.0, -1358.0)" id="9" />
+      <edge source="(-3084.5, -1315.0)" target="(-2948.5, -1294.5)" id="10" />
+      <edge source="(-2447.0, -992.5)" target="(-2450.0, -908.5)" id="11" />
+      <edge source="(-2447.0, -992.5)" target="(-1514.0, -784.5)" id="12" />
+      <edge source="(-2447.0, -992.5)" target="(-2636.5, -1056.5)" id="13" />
+      <edge source="(-2450.0, -908.5)" target="(-2359.5, -360.5)" id="14" />
+      <edge source="(-2450.0, -908.5)" target="(-2243.0, -870.5)" id="15" />
+      <edge source="(-1514.0, -784.5)" target="(-2240.5, -314.5)" id="16" />
+      <edge source="(-1514.0, -784.5)" target="(-1416.0, -809.5)" id="17" />
+      <edge source="(-2636.5, -1056.5)" target="(-2782.5, -1229.0)" id="18" />
+      <edge source="(-2636.5, -1056.5)" target="(-2775.0, -1113.5)" id="19" />
+      <edge source="(-1826.5, -1095.5)" target="(-2050.0, -932.0)" id="20" />
+      <edge source="(-1826.5, -1095.5)" target="(-1422.0, -976.5)" id="21" />
+      <edge source="(-1826.5, -1095.5)" target="(-2494.0, -1418.0)" id="22" />
+      <edge source="(-1422.0, -976.5)" target="(-1315.5, -885.5)" id="23" />
+      <edge source="(-1422.0, -976.5)" target="(-1419.5, -1570.0)" id="24" />
+      <edge source="(-2494.0, -1418.0)" target="(-2729.0, -1379.0)" id="25" />
+      <edge source="(-2494.0, -1418.0)" target="(-3256.5, -2031.0)" id="26" />
+      <edge source="(-3600.0, -881.0)" target="(-3213.5, -895.0)" id="27" />
+      <edge source="(-3213.5, -895.0)" target="(-3170.5, -885.0)" id="28" />
+      <edge source="(-3213.5, -895.0)" target="(-3052.5, -1164.0)" id="29" />
+      <edge source="(-3200.5, 1322.0)" target="(-2874.0, 1193.0)" id="30" />
+      <edge source="(-2874.0, 1193.0)" target="(-3200.5, 923.5)" id="31" />
+      <edge source="(-2874.0, 1193.0)" target="(-2807.0, 1206.5)" id="32" />
+      <edge source="(-1912.5, 865.0)" target="(-1067.0, 194.5)" id="33" />
+      <edge source="(-1912.5, 865.0)" target="(-1936.0, 983.0)" id="34" />
+      <edge source="(-1912.5, 865.0)" target="(-2620.0, 1135.5)" id="35" />
+      <edge source="(-1067.0, 194.5)" target="(-1354.0, 184.0)" id="36" />
+      <edge source="(-1067.0, 194.5)" target="(-740.0, 218.5)" id="37" />
+      <edge source="(-1936.0, 983.0)" target="(-1954.5, 999.5)" id="38" />
+      <edge source="(-1936.0, 983.0)" target="(-1512.5, 969.5)" id="39" />
+      <edge source="(-2620.0, 1135.5)" target="(-2807.0, 1206.5)" id="40" />
+      <edge source="(-2620.0, 1135.5)" target="(-2616.0, 1094.5)" id="41" />
+      <edge source="(-1776.0, 0.0)" target="(-1888.0, 18.5)" id="42" />
+      <edge source="(-1888.0, 18.5)" target="(-1681.0, 158.5)" id="43" />
+      <edge source="(-1888.0, 18.5)" target="(-1988.0, -55.0)" id="44" />
+      <edge source="(-3105.0, -1378.5)" target="(-3258.0, -1732.5)" id="45" />
+      <edge source="(-3105.0, -1378.5)" target="(-3090.0, -1358.0)" id="46" />
+      <edge source="(-3105.0, -1378.5)" target="(-3287.0, -1568.0)" id="47" />
+      <edge source="(-3090.0, -1358.0)" target="(-2729.0, -1379.0)" id="48" />
+      <edge source="(-3287.0, -1568.0)" target="(-3299.0, -1566.0)" id="49" />
+      <edge source="(-3287.0, -1568.0)" target="(-3288.5, -1576.5)" id="50" />
+      <edge source="(-2359.5, -360.5)" target="(-2348.5, -313.5)" id="51" />
+      <edge source="(-2359.5, -360.5)" target="(-2449.5, -467.5)" id="52" />
+      <edge source="(1458.5, 1662.5)" target="(1070.5, 1541.0)" id="53" />
+      <edge source="(1070.5, 1541.0)" target="(1019.5, 1718.5)" id="54" />
+      <edge source="(1070.5, 1541.0)" target="(1348.5, 170.0)" id="55" />
+      <edge source="(-695.0, 2306.5)" target="(-714.5, 2191.5)" id="56" />
+      <edge source="(-714.5, 2191.5)" target="(-742.0, 744.0)" id="57" />
+      <edge source="(-714.5, 2191.5)" target="(-784.0, 2260.5)" id="58" />
+      <edge source="(-17.0, -89.5)" target="(-4.0, -86.0)" id="59" />
+      <edge source="(-17.0, -89.5)" target="(-40.5, -54.0)" id="60" />
+      <edge source="(-17.0, -89.5)" target="(275.5, -659.0)" id="61" />
+      <edge source="(-4.0, -86.0)" target="(-7.0, -32.0)" id="62" />
+      <edge source="(-40.5, -54.0)" target="(-7.0, -32.0)" id="63" />
+      <edge source="(-40.5, -54.0)" target="(-119.5, -103.0)" id="64" />
+      <edge source="(-3170.5, -885.0)" target="(-3188.5, -715.5)" id="65" />
+      <edge source="(-3170.5, -885.0)" target="(-2965.0, -1057.5)" id="66" />
+      <edge source="(-3188.5, -715.5)" target="(-2750.5, -667.0)" id="67" />
+      <edge source="(-3188.5, -715.5)" target="(-3197.0, -714.5)" id="68" />
+      <edge source="(-2965.0, -1057.5)" target="(-2957.5, -1057.5)" id="69" />
+      <edge source="(-2965.0, -1057.5)" target="(-3052.5, -1164.0)" id="70" />
+      <edge source="(-7.0, -32.0)" target="(0.0, 0.0)" id="71" />
+      <edge source="(0.0, 0.0)" target="(-133.5, 38.0)" id="72" />
+      <edge source="(0.0, 0.0)" target="(203.0, 40.5)" id="73" />
+      <edge source="(-2289.5, -263.0)" target="(-2348.5, -313.5)" id="74" />
+      <edge source="(-2289.5, -263.0)" target="(-2240.5, -314.5)" id="75" />
+      <edge source="(-2289.5, -263.0)" target="(-2026.0, -78.5)" id="76" />
+      <edge source="(-2348.5, -313.5)" target="(-2454.0, -351.5)" id="77" />
+      <edge source="(-2240.5, -314.5)" target="(-2274.5, -719.5)" id="78" />
+      <edge source="(-2026.0, -78.5)" target="(-2001.5, -93.0)" id="79" />
+      <edge source="(-2026.0, -78.5)" target="(-1988.0, -55.0)" id="80" />
+      <edge source="(-2729.0, -1379.0)" target="(-2940.0, -1571.0)" id="81" />
+      <edge source="(-1954.5, 999.5)" target="(-2485.0, 1169.0)" id="82" />
+      <edge source="(-1954.5, 999.5)" target="(-2077.0, 1196.5)" id="83" />
+      <edge source="(-1512.5, 969.5)" target="(-2366.0, 1356.0)" id="84" />
+      <edge source="(-1512.5, 969.5)" target="(-646.5, 320.5)" id="85" />
+      <edge source="(-2936.5, -997.0)" target="(-2936.0, -1018.5)" id="86" />
+      <edge source="(-2936.5, -997.0)" target="(-3090.0, -759.0)" id="87" />
+      <edge source="(-2936.5, -997.0)" target="(-2750.5, -667.0)" id="88" />
+      <edge source="(-2936.0, -1018.5)" target="(-2957.5, -1057.5)" id="89" />
+      <edge source="(-2936.0, -1018.5)" target="(-2909.0, -1068.5)" id="90" />
+      <edge source="(-2750.5, -667.0)" target="(-2454.0, -351.5)" id="91" />
+      <edge source="(-1681.0, 158.5)" target="(-1354.0, 184.0)" id="92" />
+      <edge source="(-1681.0, 158.5)" target="(-1831.0, 249.0)" id="93" />
+      <edge source="(-1354.0, 184.0)" target="(-1302.0, -551.5)" id="94" />
+      <edge source="(-1831.0, 249.0)" target="(-3144.0, -18.5)" id="95" />
+      <edge source="(-1831.0, 249.0)" target="(-2616.0, 1094.5)" id="96" />
+      <edge source="(-269.5, 420.5)" target="(-133.5, 38.0)" id="97" />
+      <edge source="(-133.5, 38.0)" target="(-340.0, 122.5)" id="98" />
+      <edge source="(1019.5, 1718.5)" target="(971.5, 1855.5)" id="99" />
+      <edge source="(1019.5, 1718.5)" target="(697.0, 1748.0)" id="100" />
+      <edge source="(1348.5, 170.0)" target="(1428.0, 155.5)" id="101" />
+      <edge source="(1348.5, 170.0)" target="(1253.5, 137.0)" id="102" />
+      <edge source="(-2454.0, -351.5)" target="(-2934.5, -214.0)" id="103" />
+      <edge source="(-2865.0, 1720.5)" target="(-2828.5, 1726.0)" id="104" />
+      <edge source="(-2865.0, 1720.5)" target="(-2815.5, 1557.5)" id="105" />
+      <edge source="(-2865.0, 1720.5)" target="(-2958.0, 1745.5)" id="106" />
+      <edge source="(-2828.5, 1726.0)" target="(-2366.0, 1356.0)" id="107" />
+      <edge source="(-2828.5, 1726.0)" target="(-2903.0, 1874.0)" id="108" />
+      <edge source="(-2815.5, 1557.5)" target="(-2716.0, 1485.5)" id="109" />
+      <edge source="(-2815.5, 1557.5)" target="(-2870.0, 1580.5)" id="110" />
+      <edge source="(-2958.0, 1745.5)" target="(-2990.0, 1773.5)" id="111" />
+      <edge source="(-2958.0, 1745.5)" target="(-2972.0, 1735.5)" id="112" />
+      <edge source="(-580.0, 293.0)" target="(-613.5, 257.5)" id="113" />
+      <edge source="(-613.5, 257.5)" target="(-614.0, 227.5)" id="114" />
+      <edge source="(-613.5, 257.5)" target="(-646.5, 320.5)" id="115" />
+      <edge source="(-588.5, -625.5)" target="(-632.5, -612.0)" id="116" />
+      <edge source="(-588.5, -625.5)" target="(-1179.0, -874.5)" id="117" />
+      <edge source="(-588.5, -625.5)" target="(-493.0, -541.0)" id="118" />
+      <edge source="(-1179.0, -874.5)" target="(-1315.5, -885.5)" id="119" />
+      <edge source="(-1179.0, -874.5)" target="(-1302.0, -551.5)" id="120" />
+      <edge source="(-493.0, -541.0)" target="(-470.0, -516.0)" id="121" />
+      <edge source="(-493.0, -541.0)" target="(-460.5, -601.0)" id="122" />
+      <edge source="(-2366.0, 1356.0)" target="(-2716.0, 1485.5)" id="123" />
+      <edge source="(-3197.0, -714.5)" target="(-3253.0, -603.0)" id="124" />
+      <edge source="(-3197.0, -714.5)" target="(-3519.5, -638.5)" id="125" />
+      <edge source="(-383.0, -375.5)" target="(-470.0, -516.0)" id="126" />
+      <edge source="(-383.0, -375.5)" target="(-167.5, -114.5)" id="127" />
+      <edge source="(-383.0, -375.5)" target="(-415.0, -355.5)" id="128" />
+      <edge source="(-470.0, -516.0)" target="(-449.0, -550.5)" id="129" />
+      <edge source="(-167.5, -114.5)" target="(-169.0, -111.5)" id="130" />
+      <edge source="(-167.5, -114.5)" target="(-119.5, -103.0)" id="131" />
+      <edge source="(-2932.0, 1452.0)" target="(-2833.0, 1277.5)" id="132" />
+      <edge source="(-2932.0, 1452.0)" target="(-2962.5, 1464.0)" id="133" />
+      <edge source="(-2932.0, 1452.0)" target="(-2980.0, 1523.5)" id="134" />
+      <edge source="(-2833.0, 1277.5)" target="(-2807.0, 1206.5)" id="135" />
+      <edge source="(-2833.0, 1277.5)" target="(-2485.0, 1169.0)" id="136" />
+      <edge source="(-2716.0, 1485.5)" target="(-2485.0, 1169.0)" id="137" />
+      <edge source="(971.5, 1855.5)" target="(780.5, 1946.0)" id="138" />
+      <edge source="(-1315.5, -885.5)" target="(-1416.0, -809.5)" id="139" />
+      <edge source="(-1416.0, -809.5)" target="(-1503.5, -717.5)" id="140" />
+      <edge source="(-1302.0, -551.5)" target="(-2001.5, -93.0)" id="141" />
+      <edge source="(-740.0, 218.5)" target="(-766.5, 298.0)" id="142" />
+      <edge source="(-740.0, 218.5)" target="(-614.0, 227.5)" id="143" />
+      <edge source="(-614.0, 227.5)" target="(-340.0, 122.5)" id="144" />
+      <edge source="(-2870.0, 1580.5)" target="(-2923.0, 1586.5)" id="145" />
+      <edge source="(-2870.0, 1580.5)" target="(-3188.5, 1746.0)" id="146" />
+      <edge source="(917.5, -119.0)" target="(868.5, 81.5)" id="147" />
+      <edge source="(868.5, 81.5)" target="(1253.5, 137.0)" id="148" />
+      <edge source="(868.5, 81.5)" target="(690.5, 77.5)" id="149" />
+      <edge source="(1428.0, 155.5)" target="(1426.5, 186.0)" id="150" />
+      <edge source="(1428.0, 155.5)" target="(2211.0, -477.5)" id="151" />
+      <edge source="(1426.5, 186.0)" target="(1574.0, 277.0)" id="152" />
+      <edge source="(1426.5, 186.0)" target="(1423.5, 186.0)" id="153" />
+      <edge source="(2211.0, -477.5)" target="(2247.5, -477.5)" id="154" />
+      <edge source="(2211.0, -477.5)" target="(2228.5, -745.0)" id="155" />
+      <edge source="(2247.5, -477.5)" target="(2473.0, -1049.0)" id="156" />
+      <edge source="(2247.5, -477.5)" target="(2811.0, -554.0)" id="157" />
+      <edge source="(1253.5, 137.0)" target="(1198.0, 193.0)" id="158" />
+      <edge source="(-2957.5, -1057.5)" target="(-2909.0, -1068.5)" id="159" />
+      <edge source="(-2909.0, -1068.5)" target="(-2775.0, -1113.5)" id="160" />
+      <edge source="(-2001.5, -93.0)" target="(-1988.0, -55.0)" id="161" />
+      <edge source="(-2616.0, 1094.5)" target="(-2651.5, 1077.0)" id="162" />
+      <edge source="(-2896.0, -1249.5)" target="(-2831.0, -1253.5)" id="163" />
+      <edge source="(-2831.0, -1253.5)" target="(-2782.5, -1229.0)" id="164" />
+      <edge source="(-2831.0, -1253.5)" target="(-2948.5, -1294.5)" id="165" />
+      <edge source="(-119.5, -103.0)" target="(-77.0, -212.5)" id="166" />
+      <edge source="(349.5, 341.0)" target="(271.0, 43.5)" id="167" />
+      <edge source="(271.0, 43.5)" target="(454.0, 64.5)" id="168" />
+      <edge source="(271.0, 43.5)" target="(203.0, 40.5)" id="169" />
+      <edge source="(-3052.5, -1164.0)" target="(-2948.5, -1294.5)" id="170" />
+      <edge source="(-340.0, 122.5)" target="(-293.5, 172.0)" id="171" />
+      <edge source="(-2782.5, -1229.0)" target="(-2775.0, -1113.5)" id="172" />
+      <edge source="(690.5, 77.5)" target="(454.0, 64.5)" id="173" />
+      <edge source="(690.5, 77.5)" target="(637.0, 881.5)" id="174" />
+      <edge source="(-646.5, 320.5)" target="(-742.0, 744.0)" id="175" />
+      <edge source="(454.0, 64.5)" target="(445.0, -93.0)" id="176" />
+      <edge source="(-742.0, 744.0)" target="(-252.5, 981.5)" id="177" />
+    </edges>
+  </graph>
+</gexf>

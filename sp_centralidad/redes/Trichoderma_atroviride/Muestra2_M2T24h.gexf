@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-25">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="(0.0, 0.0)" label="(0.0, 0.0)">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="(592.5, -489.5)" label="(592.5, -489.5)">
+        <attvalues>
+          <attvalue for="0" value="5.925" />
+          <attvalue for="1" value="-4.895" />
+        </attvalues>
+      </node>
+      <node id="(-796.5, 576.5)" label="(-796.5, 576.5)">
+        <attvalues>
+          <attvalue for="0" value="-7.965" />
+          <attvalue for="1" value="5.765" />
+        </attvalues>
+      </node>
+      <node id="(453.0, 403.5)" label="(453.0, 403.5)">
+        <attvalues>
+          <attvalue for="0" value="4.53" />
+          <attvalue for="1" value="4.035" />
+        </attvalues>
+      </node>
+      <node id="(-720.0, 745.0)" label="(-720.0, 745.0)">
+        <attvalues>
+          <attvalue for="0" value="-7.2" />
+          <attvalue for="1" value="7.45" />
+        </attvalues>
+      </node>
+      <node id="(480.5, 411.0)" label="(480.5, 411.0)">
+        <attvalues>
+          <attvalue for="0" value="4.805" />
+          <attvalue for="1" value="4.11" />
+        </attvalues>
+      </node>
+      <node id="(-730.0, 575.5)" label="(-730.0, 575.5)">
+        <attvalues>
+          <attvalue for="0" value="-7.3" />
+          <attvalue for="1" value="5.755" />
+        </attvalues>
+      </node>
+      <node id="(451.5, 408.5)" label="(451.5, 408.5)">
+        <attvalues>
+          <attvalue for="0" value="4.515" />
+          <attvalue for="1" value="4.085" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="(0.0, 0.0)" target="(592.5, -489.5)" id="0" />
+      <edge source="(0.0, 0.0)" target="(-796.5, 576.5)" id="1" />
+      <edge source="(0.0, 0.0)" target="(453.0, 403.5)" id="2" />
+      <edge source="(-796.5, 576.5)" target="(-720.0, 745.0)" id="3" />
+      <edge source="(-796.5, 576.5)" target="(-730.0, 575.5)" id="4" />
+      <edge source="(453.0, 403.5)" target="(480.5, 411.0)" id="5" />
+      <edge source="(453.0, 403.5)" target="(451.5, 408.5)" id="6" />
+    </edges>
+  </graph>
+</gexf>

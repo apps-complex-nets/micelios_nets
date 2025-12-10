@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-02-25">
+  <meta lastmodifieddate="2025-12-09">
     <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -299,53 +299,53 @@
       </node>
     </nodes>
     <edges>
-      <edge source="(783.0, -621.5)" target="(167.0, -56.0)" id="0" />
-      <edge source="(167.0, -56.0)" target="(139.0, -46.0)" id="1" />
-      <edge source="(167.0, -56.0)" target="(294.5, -76.0)" id="2" />
-      <edge source="(-1956.0, 631.0)" target="(-1828.5, 340.5)" id="3" />
-      <edge source="(-1828.5, 340.5)" target="(-1594.0, 345.5)" id="4" />
-      <edge source="(-1828.5, 340.5)" target="(-2214.5, 223.5)" id="5" />
-      <edge source="(-1331.5, 54.0)" target="(-1337.5, 66.5)" id="6" />
-      <edge source="(-1337.5, 66.5)" target="(-1285.0, 156.0)" id="7" />
-      <edge source="(-1337.5, 66.5)" target="(-1477.0, -39.5)" id="8" />
-      <edge source="(878.5, 39.5)" target="(1024.5, 41.0)" id="9" />
-      <edge source="(878.5, 39.5)" target="(741.5, -26.0)" id="10" />
-      <edge source="(878.5, 39.5)" target="(879.0, 48.5)" id="11" />
-      <edge source="(1024.5, 41.0)" target="(1024.5, 13.5)" id="12" />
-      <edge source="(1024.5, 41.0)" target="(1116.5, 38.5)" id="13" />
-      <edge source="(741.5, -26.0)" target="(759.5, -82.5)" id="14" />
-      <edge source="(741.5, -26.0)" target="(559.0, -68.0)" id="15" />
-      <edge source="(1387.0, 5.0)" target="(1756.5, -15.0)" id="16" />
-      <edge source="(1387.0, 5.0)" target="(1116.5, 38.5)" id="17" />
-      <edge source="(1387.0, 5.0)" target="(1566.5, 582.5)" id="18" />
-      <edge source="(1756.5, -15.0)" target="(1810.0, 392.0)" id="19" />
-      <edge source="(1756.5, -15.0)" target="(2702.0, 138.0)" id="20" />
-      <edge source="(1116.5, 38.5)" target="(1116.5, 23.0)" id="21" />
-      <edge source="(-2223.0, 214.5)" target="(-2214.5, 223.5)" id="22" />
-      <edge source="(-2223.0, 214.5)" target="(-2489.0, 87.5)" id="23" />
-      <edge source="(-2223.0, 214.5)" target="(-2216.0, 39.0)" id="24" />
-      <edge source="(-2214.5, 223.5)" target="(-2225.5, 232.5)" id="25" />
-      <edge source="(-2489.0, 87.5)" target="(-2536.0, 59.5)" id="26" />
-      <edge source="(-2489.0, 87.5)" target="(-2499.0, 98.0)" id="27" />
-      <edge source="(-1594.0, 345.5)" target="(-1637.5, 692.0)" id="28" />
-      <edge source="(-1594.0, 345.5)" target="(-1285.0, 156.0)" id="29" />
-      <edge source="(-1285.0, 156.0)" target="(-181.5, -16.0)" id="30" />
-      <edge source="(2686.0, 259.5)" target="(2702.0, 138.0)" id="31" />
-      <edge source="(2702.0, 138.0)" target="(2907.0, 222.0)" id="32" />
-      <edge source="(-181.5, -16.0)" target="(0.0, 0.0)" id="33" />
-      <edge source="(-181.5, -16.0)" target="(-137.0, -184.0)" id="34" />
-      <edge source="(0.0, 0.0)" target="(139.0, -46.0)" id="35" />
-      <edge source="(0.0, 0.0)" target="(-17.5, 298.5)" id="36" />
-      <edge source="(139.0, -46.0)" target="(-443.0, -801.5)" id="37" />
-      <edge source="(2885.0, 261.5)" target="(2907.0, 222.0)" id="38" />
-      <edge source="(2907.0, 222.0)" target="(2984.5, 291.0)" id="39" />
-      <edge source="(-443.0, -801.5)" target="(-536.5, -871.5)" id="40" />
-      <edge source="(-443.0, -801.5)" target="(-430.5, -832.5)" id="41" />
-      <edge source="(300.0, -42.0)" target="(294.5, -76.0)" id="42" />
-      <edge source="(294.5, -76.0)" target="(430.0, -82.0)" id="43" />
-      <edge source="(559.0, -61.0)" target="(559.0, -68.0)" id="44" />
-      <edge source="(559.0, -68.0)" target="(430.0, -82.0)" id="45" />
-      <edge source="(430.0, -82.0)" target="(405.5, -250.5)" id="46" />
+      <edge source="(783.0, -621.5)" target="(167.0, -56.0)" id="0" weight="8.362094534265921" />
+      <edge source="(167.0, -56.0)" target="(139.0, -46.0)" id="1" weight="0.2973213749463701" />
+      <edge source="(167.0, -56.0)" target="(294.5, -76.0)" id="2" weight="1.2905909499140307" />
+      <edge source="(-1956.0, 631.0)" target="(-1828.5, 340.5)" id="3" weight="3.1724832544869317" />
+      <edge source="(-1828.5, 340.5)" target="(-1594.0, 345.5)" id="4" weight="2.3455329884697855" />
+      <edge source="(-1828.5, 340.5)" target="(-2214.5, 223.5)" id="5" weight="4.033422864020086" />
+      <edge source="(-1331.5, 54.0)" target="(-1337.5, 66.5)" id="6" weight="0.1386542462386207" />
+      <edge source="(-1337.5, 66.5)" target="(-1285.0, 156.0)" id="7" weight="1.0376174632300674" />
+      <edge source="(-1337.5, 66.5)" target="(-1477.0, -39.5)" id="8" weight="1.7520345316231638" />
+      <edge source="(878.5, 39.5)" target="(1024.5, 41.0)" id="9" weight="1.4600770527612565" />
+      <edge source="(878.5, 39.5)" target="(741.5, -26.0)" id="10" weight="1.5185272470390514" />
+      <edge source="(878.5, 39.5)" target="(879.0, 48.5)" id="11" weight="0.09013878188659964" />
+      <edge source="(1024.5, 41.0)" target="(1024.5, 13.5)" id="12" weight="0.27499999999999997" />
+      <edge source="(1024.5, 41.0)" target="(1116.5, 38.5)" id="13" weight="0.92033961123055" />
+      <edge source="(741.5, -26.0)" target="(759.5, -82.5)" id="14" weight="0.5929797635670208" />
+      <edge source="(741.5, -26.0)" target="(559.0, -68.0)" id="15" weight="1.8727052624478848" />
+      <edge source="(1387.0, 5.0)" target="(1756.5, -15.0)" id="16" weight="3.700408761204634" />
+      <edge source="(1387.0, 5.0)" target="(1116.5, 38.5)" id="17" weight="2.7256650564586984" />
+      <edge source="(1387.0, 5.0)" target="(1566.5, 582.5)" id="18" weight="6.047532554687077" />
+      <edge source="(1756.5, -15.0)" target="(1810.0, 392.0)" id="19" weight="4.105012180249896" />
+      <edge source="(1756.5, -15.0)" target="(2702.0, 138.0)" id="20" weight="9.577991699724947" />
+      <edge source="(1116.5, 38.5)" target="(1116.5, 23.0)" id="21" weight="0.155" />
+      <edge source="(-2223.0, 214.5)" target="(-2214.5, 223.5)" id="22" weight="0.12379418403139995" />
+      <edge source="(-2223.0, 214.5)" target="(-2489.0, 87.5)" id="23" weight="2.9476261635424534" />
+      <edge source="(-2223.0, 214.5)" target="(-2216.0, 39.0)" id="24" weight="1.7563954566099287" />
+      <edge source="(-2214.5, 223.5)" target="(-2225.5, 232.5)" id="25" weight="0.14212670403551872" />
+      <edge source="(-2489.0, 87.5)" target="(-2536.0, 59.5)" id="26" weight="0.5470831746635962" />
+      <edge source="(-2489.0, 87.5)" target="(-2499.0, 98.0)" id="27" weight="0.14499999999999852" />
+      <edge source="(-1594.0, 345.5)" target="(-1637.5, 692.0)" id="28" weight="3.4921984479694164" />
+      <edge source="(-1594.0, 345.5)" target="(-1285.0, 156.0)" id="29" weight="3.6247930975436375" />
+      <edge source="(-1285.0, 156.0)" target="(-181.5, -16.0)" id="30" weight="11.168241804330707" />
+      <edge source="(2686.0, 259.5)" target="(2702.0, 138.0)" id="31" weight="1.2254896980391148" />
+      <edge source="(2702.0, 138.0)" target="(2907.0, 222.0)" id="32" weight="2.215423210133902" />
+      <edge source="(-181.5, -16.0)" target="(0.0, 0.0)" id="33" weight="1.8220386933322794" />
+      <edge source="(-181.5, -16.0)" target="(-137.0, -184.0)" id="34" weight="1.73793699540576" />
+      <edge source="(0.0, 0.0)" target="(139.0, -46.0)" id="35" weight="1.464137971640651" />
+      <edge source="(0.0, 0.0)" target="(-17.5, 298.5)" id="36" weight="2.990125415429928" />
+      <edge source="(139.0, -46.0)" target="(-443.0, -801.5)" id="37" weight="9.536793224139863" />
+      <edge source="(2885.0, 261.5)" target="(2907.0, 222.0)" id="38" weight="0.45213382974513144" />
+      <edge source="(2907.0, 222.0)" target="(2984.5, 291.0)" id="39" weight="1.037653603087272" />
+      <edge source="(-443.0, -801.5)" target="(-536.5, -871.5)" id="40" weight="1.1680004280821132" />
+      <edge source="(-443.0, -801.5)" target="(-430.5, -832.5)" id="41" weight="0.3342528982671642" />
+      <edge source="(300.0, -42.0)" target="(294.5, -76.0)" id="42" weight="0.3444198019858905" />
+      <edge source="(294.5, -76.0)" target="(430.0, -82.0)" id="43" weight="1.3563277627476333" />
+      <edge source="(559.0, -61.0)" target="(559.0, -68.0)" id="44" weight="0.07000000000000006" />
+      <edge source="(559.0, -68.0)" target="(430.0, -82.0)" id="45" weight="1.2975746606650425" />
+      <edge source="(430.0, -82.0)" target="(405.5, -250.5)" id="46" weight="1.7027184147709216" />
     </edges>
   </graph>
 </gexf>

@@ -1,15 +1,12 @@
-from networkx.linalg import laplacianmatrix
-from matplotlib._api import deprecation
-from networkx import generators
-from networkx.algorithms import non_randomness
-from networkx.algorithms import coloring
-from re import T
 import networkx as nx
 import constantes as c
 import random
 from ast import literal_eval
 from math import dist
 import matplotlib.pyplot as plt
+import pandas as pd
+import os
+
 
 
 
@@ -67,15 +64,35 @@ def atacar_red_por_grado(G):
     removed_node = max(G.degree(), key=lambda x: x[1])[0]
     return [removed_node]
 
-def grafica_medidas_robustez(lista_medida, medida, titulo, ejex):
+def grafica_medidas_robustez(lista_medida, medida, titulo, hongo, ejex):
     plt.figure(figsize=(12, 6))
     plt.plot(lista_medida, marker="o", linestyle="-")
     plt.xlabel(ejex)
     plt.ylabel(medida)
     plt.title(titulo)
-    plt.savefig(tipo_nodo + "/" + medida + "_" + titulo + ".png")
-    plt.show()
+    folder = "imagenes_" + tipo_nodo  + "_"+ hongo
+    os.makedirs(folder, exist_ok=True)
+    plt.savefig(folder + "/" + medida + "_" + titulo + ".png")
+    #plt.show()
 
+def guardar_dataframe(order_lcc, length_lcc, num_cc, a2tr_list, red, hongo, tipo_nodo):
+    # Crear DataFrame y guardar como CSV
+    df = pd.DataFrame({
+        "eliminados": list(range(len(order_lcc))),
+        "order_lcc": order_lcc,
+        "length_lcc": length_lcc,
+        "num_cc": num_cc,
+        "a2tr_list": a2tr_list
+    })
+    folder = "medidas_" + hongo + "_"+ tipo_nodo
+    os.makedirs(folder, exist_ok=True)
+    csv_path = os.path.join(folder, f"{red}_{tipo_nodo}.csv")
+    df.to_csv(csv_path, index=False)
+    print(f"DataFrame guardado como CSV en: {csv_path}")
+
+# Tipo de hongo: Neurospora o Trichoderma
+hongo = "Neurospora"
+# Tipo de nodo: Enlace, Aleatorio, Grado
 tipo_nodo = "Enlace"
 
 for muestra in range(1,6):
@@ -129,18 +146,21 @@ for muestra in range(1,6):
                 num_cc.append(nc)
                 a2tr_list.append(a2tr)
                 print("Longitud CC: ",str(l), "Orden CC: ",str(o), "Tamaño CC: ", str(t), "Numero de CC: ", str(nc), "A2TR: ", str(a2tr))
-            
+        # Crear DataFrame y guardar como CSV
+        guardar_dataframe(order_lcc, length_lcc, num_cc, a2tr_list, red, tipo_nodo, hongo)
+        
+
         # grafica  orden del componente mayor
-        grafica_medidas_robustez(order_lcc, "Orden del componente mayor", red + "_" + tipo_nodo, ejex)
+        grafica_medidas_robustez(order_lcc, "Orden del componente mayor", red + "_" + tipo_nodo, hongo, ejex)
         
         # grafica  tamaño del componente mayor
-        grafica_medidas_robustez(size_lcc, "Tamaño del componente mayor", red + "_" + tipo_nodo, ejex)
+        grafica_medidas_robustez(size_lcc, "Tamaño del componente mayor", red + "_" + tipo_nodo, hongo, ejex)
 
         # grafica  longitud del componente mayor
-        grafica_medidas_robustez(length_lcc, "Longitud del componente mayor", red + "_" + tipo_nodo, ejex)
+        grafica_medidas_robustez(length_lcc, "Longitud del componente mayor", red + "_" + tipo_nodo, hongo, ejex)
 
         # grafica numero de componentes conectados
-        grafica_medidas_robustez(num_cc, "Numero de componentes conectados", red + "_" + tipo_nodo, ejex)
+        grafica_medidas_robustez(num_cc, "Numero de componentes conectados", red + "_" + tipo_nodo, hongo, ejex)
 
         # grafica A2TR
-        grafica_medidas_robustez(a2tr_list, "A2TR", red + "_" + tipo_nodo, ejex)
+        grafica_medidas_robustez(a2tr_list, "A2TR", red + "_" + tipo_nodo, hongo, ejex)
